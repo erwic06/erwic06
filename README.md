@@ -15,21 +15,21 @@ Credits and references used in this README:
 
 ## About Me
 
-- 📚 I'm in my second year at UChicago studying Computer Science and Business Economics
+- 📚 I'm in my second year at **UChicago** studying **Computer Science** and **Business Economics**
 
 - 🌱 I’m currently learning **Financial engineering, ML, Discrete Math, and Linear Algebra**
-
-- 💬 Ask me about **my recent summer trip to China** or **my recent summer internship at <a href="https://alleo.ai/">Alleo AI</a>
-
+  
+- ☀️ This summer I had two big highlights: an epic trip to China and an amazing time interning at <a href="https://alleo.ai/">Alleo AI</a>. **Ask me about either!**
+  
 - 📫 How to reach me: **sugoeric15@gmail.com or wongeric@uchicago.edu**
 
 - ⛹🏻 In my free time I like to **play basketball 🏀, hike 🥾, and play pool 🎱**
 
 
-## Skill stack 
+## Current skill stack:
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-[![My Skills](https://skillicons.dev/icons?i=python,c,git,tensorflow,sklearn,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,tensorflow,sklearn,git,github,figma&theme=light)](https://skillicons.dev)
 
 **Also comfortable with**: JavaScript, Typescript, Tailwind, HTML, and AWS S3
 
