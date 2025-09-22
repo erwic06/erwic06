@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eric!</h1>
 <h3 align="center">A rising second year at the University of Chicago studying Computer Science and Business Economics</h3>
 
-- 🌱 I’m currently learning **Financial engineering, Discrete Math, Machine Learning, Linear Algebra**
+- 🌱 I’m currently learning **Financial engineering, ML, Discrete Math, and Linear Algebra**
 
 - 💬 Ask me about **my recent summer trip to China!**
 
