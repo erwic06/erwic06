@@ -15,6 +15,8 @@ Credits and references used in this README:
 
 ## About Me
 
+- 🐠 I was born and raised in **Honolulu, Hawaii**
+  
 - 📚 I'm in my second year at **UChicago** studying **Computer Science** and **Business Economics**
 
 - 🌱 I’m currently learning **Financial engineering, ML, Discrete Math, and Linear Algebra**
