@@ -19,7 +19,7 @@ Credits and references used in this README:
   
 - 📚 I'm in my second year at **UChicago** studying **Computer Science** and **Business Economics**
 
-- 🌱 I’m currently learning **Financial engineering, ML, Discrete Math, and Linear Algebra**
+- 🌱 I’m currently learning **Financial engineering, ML, Theory of Algorithms, and Linear Algebra**
   
 - ☀️ This summer I had two big highlights: an epic trip to China and an amazing time interning at <a href="https://alleo.ai/">Alleo AI</a>. **Ask me about either!**
   
