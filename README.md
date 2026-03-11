@@ -17,9 +17,9 @@ Credits and references used in this README:
 
 - 🐠 I was born and raised in **Honolulu, Hawaii**
   
-- 📚 I'm in my second year at **UChicago** studying **Computer Science** and **Business Economics**
+- 📚 I'm in my second year at **UChicago** studying **Computer Science** and **Economics**
 
-- 🌱 I’m currently learning **Financial engineering, ML, Theory of Algorithms, and Linear Algebra**
+- 🌱 I’m currently learning **how to learn**
   
 - ☀️ This summer I had two big highlights: an epic trip to China and an amazing time interning at <a href="https://alleo.ai/">Alleo AI</a>. **Ask me about either!**
   
@@ -27,10 +27,12 @@ Credits and references used in this README:
 
 - ⛹🏻 In my free time I like to **play basketball 🏀, hike 🥾, and play pool 🎱**
 
+- Check out my portfolio at <a href="https://pipinstalleric.com/">pipinstalleric.com</a>!!
 
-## Current skill stack:
+<!--## Current skill stack:
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
+<!--
 [![My Skills](https://skillicons.dev/icons?i=python,c,tensorflow,sklearn,git,github,figma&theme=light)](https://skillicons.dev)
 
 **Also comfortable with**: JavaScript, Typescript, Tailwind, HTML, and AWS S3
